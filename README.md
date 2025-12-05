@@ -44,7 +44,7 @@ Multiple task datasets were created to model different problem complexities.
 
 | Skills per Task | Filename |
 |-----------------|----------|
-| 3 skills | `tasks_3skills.csv` |
+| 3 skills | [`tasks_3skills.csv`](https://github.com/had271/OCTF-benchmark/main/Dataset100/tasks_3skills.csv) |
 | 5 skills | `tasks_5skills.csv` |
 | 7 skills | `tasks_7skills.csv` |
 | 10 skills | `tasks_10skills.csv` |
