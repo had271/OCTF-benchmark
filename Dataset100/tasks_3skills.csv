@@ -1,0 +1,101 @@
+task_id,required_skills,num_experts
+1,"IoT, Big Data, NLP",2
+2,"Deep Learning, Computer Vision, Robotics",2
+3,"Software Engineering, Artificial Intelligence, Blockchain",2
+4,"Reinforcement Learning, Blockchain, Optimization",2
+5,"Data Visualization, Cloud Computing, Software Engineering",2
+6,"Computer Vision, Deep Learning, Optimization",2
+7,"Blockchain, Optimization, Software Engineering",2
+8,"Deep Learning, Business Intelligence, NLP",2
+9,"Big Data, Blockchain, IoT",2
+10,"Business Intelligence, Computer Vision, Network Security",2
+11,"Network Security, Artificial Intelligence, Robotics",2
+12,"Computer Vision, Robotics, Software Engineering",2
+13,"Data Mining, Data Visualization, Deep Learning",2
+14,"Software Engineering, NLP, Big Data",2
+15,"Data Visualization, Blockchain, Data Mining",2
+16,"Reinforcement Learning, Deep Learning, Blockchain",2
+17,"Data Visualization, Network Security, Machine Learning",2
+18,"IoT, Network Security, Data Mining",2
+19,"NLP, IoT, Cybersecurity",2
+20,"Machine Learning, Business Intelligence, Blockchain",2
+21,"Optimization, Data Visualization, Data Analysis",2
+22,"Big Data, NLP, Database Systems",2
+23,"Network Security, Business Intelligence, NLP",2
+24,"Blockchain, Robotics, Database Systems",2
+25,"Artificial Intelligence, Deep Learning, Data Analysis",2
+26,"Data Mining, Data Analysis, Cloud Computing",2
+27,"Optimization, Robotics, Computer Vision",2
+28,"IoT, Deep Learning, Data Analysis",2
+29,"Robotics, Optimization, Data Mining",2
+30,"Data Analysis, Artificial Intelligence, Optimization",2
+31,"Cybersecurity, NLP, Database Systems",2
+32,"Cybersecurity, Optimization, Network Security",2
+33,"Robotics, NLP, Blockchain",2
+34,"Cybersecurity, Data Visualization, Blockchain",2
+35,"Reinforcement Learning, Computer Vision, Robotics",2
+36,"Blockchain, Artificial Intelligence, Computer Vision",2
+37,"Data Mining, Business Intelligence, Data Analysis",2
+38,"Network Security, Cybersecurity, IoT",2
+39,"Robotics, Data Analysis, Big Data",2
+40,"Deep Learning, Database Systems, Optimization",2
+41,"Reinforcement Learning, Blockchain, Data Analysis",2
+42,"Robotics, Cybersecurity, Software Engineering",2
+43,"Business Intelligence, Data Mining, Cloud Computing",2
+44,"NLP, Software Engineering, Data Analysis",2
+45,"Cloud Computing, Database Systems, Blockchain",2
+46,"Cloud Computing, Business Intelligence, Blockchain",2
+47,"Deep Learning, Network Security, Cybersecurity",2
+48,"Deep Learning, Software Engineering, Cloud Computing",2
+49,"Robotics, Machine Learning, IoT",2
+50,"Deep Learning, Cloud Computing, Computer Vision",2
+51,"Network Security, Database Systems, Deep Learning",2
+52,"Deep Learning, Data Visualization, Robotics",2
+53,"Data Mining, Business Intelligence, Artificial Intelligence",2
+54,"NLP, Software Engineering, Machine Learning",2
+55,"Network Security, Software Engineering, Cybersecurity",2
+56,"Business Intelligence, Deep Learning, Network Security",2
+57,"Business Intelligence, Data Analysis, Big Data",2
+58,"IoT, Network Security, Machine Learning",2
+59,"Robotics, Network Security, Computer Vision",2
+60,"Data Analysis, NLP, Software Engineering",2
+61,"Machine Learning, Robotics, Big Data",2
+62,"Data Mining, Robotics, Data Analysis",2
+63,"NLP, Computer Vision, IoT",2
+64,"Reinforcement Learning, Data Visualization, Cybersecurity",2
+65,"Computer Vision, Reinforcement Learning, Machine Learning",2
+66,"Network Security, Big Data, Reinforcement Learning",2
+67,"Software Engineering, Reinforcement Learning, Big Data",2
+68,"Database Systems, Data Analysis, Cloud Computing",2
+69,"Data Visualization, Machine Learning, Big Data",2
+70,"Cloud Computing, Reinforcement Learning, NLP",2
+71,"Optimization, NLP, Blockchain",2
+72,"Business Intelligence, Big Data, Data Visualization",2
+73,"Data Mining, Reinforcement Learning, Blockchain",2
+74,"Big Data, IoT, Robotics",2
+75,"Optimization, Business Intelligence, Artificial Intelligence",2
+76,"Data Mining, Robotics, IoT",2
+77,"Network Security, Blockchain, Computer Vision",2
+78,"Computer Vision, Deep Learning, Big Data",2
+79,"Software Engineering, Optimization, Network Security",2
+80,"Business Intelligence, Deep Learning, Optimization",2
+81,"Machine Learning, Reinforcement Learning, Data Analysis",2
+82,"Robotics, Artificial Intelligence, Data Analysis",2
+83,"Cybersecurity, Robotics, Business Intelligence",2
+84,"Data Visualization, Computer Vision, Cloud Computing",2
+85,"Software Engineering, Cybersecurity, Big Data",2
+86,"IoT, Big Data, Data Mining",2
+87,"Cybersecurity, Machine Learning, Blockchain",2
+88,"NLP, Data Visualization, Data Mining",2
+89,"Artificial Intelligence, Computer Vision, Deep Learning",2
+90,"Business Intelligence, NLP, Database Systems",2
+91,"Artificial Intelligence, Reinforcement Learning, Optimization",2
+92,"Data Visualization, Cloud Computing, Deep Learning",2
+93,"Blockchain, Data Mining, Data Analysis",2
+94,"IoT, Software Engineering, Cloud Computing",2
+95,"Cloud Computing, Reinforcement Learning, Data Mining",2
+96,"Artificial Intelligence, Cybersecurity, Robotics",2
+97,"Computer Vision, Cloud Computing, Data Visualization",2
+98,"Robotics, Computer Vision, Data Mining",2
+99,"Cloud Computing, Data Analysis, Blockchain",2
+100,"Data Visualization, Optimization, Cloud Computing",2

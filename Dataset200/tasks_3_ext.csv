@@ -1,0 +1,201 @@
+task_id,required_skills,num_experts
+1,"Cloud Computing, Reinforcement Learning, Data Mining",2
+2,"NLP, Machine Learning, ETL Pipelines",2
+3,"Optimization, Deep Learning, Algorithm Engineering",2
+4,"Optimization, ETL Pipelines, Time Series Analysis",2
+5,"Robotics, Edge Computing, IoT",2
+6,"Time Series Analysis, Edge Computing, Machine Learning",2
+7,"Blockchain, Generative AI, Time Series Analysis",2
+8,"Data Visualization, Network Security, Cloud Computing",2
+9,"Statistical Modeling, IoT, Distributed Systems",2
+10,"Quantum Computing, NLP, Database Systems",2
+11,"API Development, Algorithm Engineering, Predictive Modeling",2
+12,"Edge Computing, NLP, Data Warehousing",2
+13,"Quantum Computing, IoT, Reinforcement Learning",2
+14,"Cybersecurity, Big Data, Predictive Modeling",2
+15,"Reinforcement Learning, NLP, IoT",2
+16,"Software Engineering, Systems Design, DevOps",2
+17,"Big Data, DevOps, Time Series Analysis",2
+18,"Statistical Modeling, IoT, Optimization",2
+19,"Big Data, IoT, Predictive Modeling",2
+20,"Data Analysis, Data Warehousing, Artificial Intelligence",2
+21,"Blockchain, DevOps, Systems Design",2
+22,"MLOps, API Development, Generative AI",2
+23,"Cybersecurity, Machine Learning, Robotics",2
+24,"Network Security, Robotics, Statistical Modeling",2
+25,"Quantum Computing, API Development, Systems Design",2
+26,"NLP, Network Security, Statistical Modeling",2
+27,"Distributed Systems, Statistical Modeling, Data Mining",2
+28,"Generative AI, Statistical Modeling, Data Visualization",2
+29,"Computer Vision, Deep Learning, Reinforcement Learning",2
+30,"Data Mining, Generative AI, Database Systems",2
+31,"Cybersecurity, Generative AI, NLP",2
+32,"Deep Learning, Data Visualization, Data Warehousing",2
+33,"Time Series Analysis, Optimization, Big Data",2
+34,"Data Visualization, Data Analysis, Data Warehousing",2
+35,"Statistical Modeling, Optimization, Predictive Modeling",2
+36,"Business Intelligence, Network Security, Systems Design",2
+37,"Computer Vision, Big Data, MLOps",2
+38,"Network Security, Big Data, Deep Learning",2
+39,"Predictive Modeling, Deep Learning, Edge Computing",2
+40,"Network Security, MLOps, DevOps",2
+41,"Cybersecurity, Edge Computing, Systems Design",2
+42,"Distributed Systems, Quantum Computing, API Development",2
+43,"Artificial Intelligence, Cybersecurity, Quantum Computing",2
+44,"Data Warehousing, Cloud Computing, Statistical Modeling",2
+45,"Time Series Analysis, Data Visualization, API Development",2
+46,"Business Intelligence, ETL Pipelines, Big Data",2
+47,"API Development, ETL Pipelines, Data Analysis",2
+48,"Quantum Computing, Machine Learning, NLP",2
+49,"Optimization, Generative AI, Quantum Computing",2
+50,"Time Series Analysis, Blockchain, Big Data",2
+51,"Reinforcement Learning, Optimization, Network Security",2
+52,"Distributed Systems, Database Systems, Cybersecurity",2
+53,"Optimization, Data Analysis, Edge Computing",2
+54,"Robotics, Time Series Analysis, Cybersecurity",2
+55,"Artificial Intelligence, Data Visualization, Embedded Systems",2
+56,"Robotics, Algorithm Engineering, Generative AI",2
+57,"ETL Pipelines, NLP, Time Series Analysis",2
+58,"Embedded Systems, Cloud Computing, Robotics",2
+59,"Computer Vision, Predictive Modeling, Distributed Systems",2
+60,"Big Data, DevOps, Software Engineering",2
+61,"Artificial Intelligence, Optimization, Generative AI",2
+62,"Data Visualization, Software Engineering, MLOps",2
+63,"Generative AI, Data Visualization, Cybersecurity",2
+64,"Big Data, NLP, DevOps",2
+65,"Time Series Analysis, Predictive Modeling, Big Data",2
+66,"Cybersecurity, Deep Learning, Business Intelligence",2
+67,"Machine Learning, Reinforcement Learning, Data Visualization",2
+68,"Systems Design, Blockchain, Edge Computing",2
+69,"Data Analysis, Deep Learning, API Development",2
+70,"Deep Learning, API Development, Cloud Computing",2
+71,"Artificial Intelligence, Distributed Systems, Predictive Modeling",2
+72,"MLOps, Distributed Systems, Statistical Modeling",2
+73,"Embedded Systems, Cloud Computing, Machine Learning",2
+74,"Artificial Intelligence, Database Systems, Data Visualization",2
+75,"Data Analysis, Edge Computing, Systems Design",2
+76,"Systems Design, MLOps, Time Series Analysis",2
+77,"Cybersecurity, Statistical Modeling, Software Engineering",2
+78,"Reinforcement Learning, Cybersecurity, Systems Design",2
+79,"Software Engineering, Statistical Modeling, Predictive Modeling",2
+80,"Cloud Computing, Reinforcement Learning, Time Series Analysis",2
+81,"Deep Learning, Data Analysis, Cybersecurity",2
+82,"NLP, Quantum Computing, Data Analysis",2
+83,"IoT, NLP, Artificial Intelligence",2
+84,"Artificial Intelligence, Optimization, API Development",2
+85,"Algorithm Engineering, Database Systems, Optimization",2
+86,"Network Security, NLP, Machine Learning",2
+87,"Time Series Analysis, Network Security, Algorithm Engineering",2
+88,"Cloud Computing, API Development, Quantum Computing",2
+89,"Data Analysis, API Development, Optimization",2
+90,"Database Systems, Computer Vision, NLP",2
+91,"Systems Design, Artificial Intelligence, Data Mining",2
+92,"Artificial Intelligence, Deep Learning, Data Mining",2
+93,"DevOps, Software Engineering, IoT",2
+94,"Data Mining, MLOps, Robotics",2
+95,"MLOps, Predictive Modeling, Network Security",2
+96,"Distributed Systems, NLP, Systems Design",2
+97,"Data Analysis, IoT, Robotics",2
+98,"Data Mining, Edge Computing, Cloud Computing",2
+99,"Business Intelligence, Reinforcement Learning, Predictive Modeling",2
+100,"Quantum Computing, Artificial Intelligence, Distributed Systems",2
+101,"Reinforcement Learning, Deep Learning, Quantum Computing",2
+102,"API Development, Blockchain, Statistical Modeling",2
+103,"Deep Learning, Software Engineering, Artificial Intelligence",2
+104,"Machine Learning, Robotics, Statistical Modeling",2
+105,"Artificial Intelligence, ETL Pipelines, DevOps",2
+106,"Reinforcement Learning, Computer Vision, Data Visualization",2
+107,"Deep Learning, MLOps, API Development",2
+108,"Software Engineering, Network Security, Cybersecurity",2
+109,"Robotics, Algorithm Engineering, MLOps",2
+110,"Distributed Systems, Quantum Computing, Cybersecurity",2
+111,"Systems Design, Big Data, Edge Computing",2
+112,"Data Analysis, Time Series Analysis, Big Data",2
+113,"Database Systems, Predictive Modeling, Edge Computing",2
+114,"Predictive Modeling, Generative AI, Network Security",2
+115,"Blockchain, Big Data, Computer Vision",2
+116,"Optimization, Generative AI, Quantum Computing",2
+117,"NLP, Statistical Modeling, Data Warehousing",2
+118,"Data Visualization, Generative AI, Reinforcement Learning",2
+119,"NLP, Cybersecurity, Optimization",2
+120,"Reinforcement Learning, Data Mining, Data Visualization",2
+121,"Predictive Modeling, Software Engineering, Cybersecurity",2
+122,"Data Warehousing, Edge Computing, Systems Design",2
+123,"Reinforcement Learning, Database Systems, IoT",2
+124,"Edge Computing, Generative AI, Deep Learning",2
+125,"Computer Vision, Big Data, NLP",2
+126,"Robotics, Big Data, Blockchain",2
+127,"Distributed Systems, Cybersecurity, Database Systems",2
+128,"Cloud Computing, Machine Learning, Blockchain",2
+129,"Generative AI, Big Data, Cybersecurity",2
+130,"ETL Pipelines, NLP, Data Mining",2
+131,"Data Analysis, Optimization, Time Series Analysis",2
+132,"Edge Computing, API Development, Machine Learning",2
+133,"Time Series Analysis, IoT, Data Warehousing",2
+134,"IoT, Network Security, Generative AI",2
+135,"Data Mining, Deep Learning, Business Intelligence",2
+136,"Embedded Systems, Data Analysis, Cybersecurity",2
+137,"Big Data, MLOps, Blockchain",2
+138,"Algorithm Engineering, Deep Learning, Statistical Modeling",2
+139,"DevOps, Data Warehousing, Embedded Systems",2
+140,"API Development, Data Warehousing, Systems Design",2
+141,"Network Security, IoT, Machine Learning",2
+142,"Robotics, Machine Learning, Network Security",2
+143,"Embedded Systems, Algorithm Engineering, Data Warehousing",2
+144,"Robotics, Optimization, Computer Vision",2
+145,"Deep Learning, Network Security, Statistical Modeling",2
+146,"Data Analysis, Robotics, DevOps",2
+147,"IoT, Deep Learning, Predictive Modeling",2
+148,"Data Warehousing, Machine Learning, Software Engineering",2
+149,"Blockchain, API Development, Statistical Modeling",2
+150,"API Development, Data Mining, Cybersecurity",2
+151,"Robotics, Machine Learning, Algorithm Engineering",2
+152,"ETL Pipelines, Blockchain, Big Data",2
+153,"IoT, Predictive Modeling, Data Analysis",2
+154,"Software Engineering, NLP, Algorithm Engineering",2
+155,"Cloud Computing, Distributed Systems, Edge Computing",2
+156,"ETL Pipelines, Reinforcement Learning, Predictive Modeling",2
+157,"Optimization, Time Series Analysis, API Development",2
+158,"IoT, Data Warehousing, Robotics",2
+159,"IoT, DevOps, Reinforcement Learning",2
+160,"Business Intelligence, Big Data, IoT",2
+161,"Edge Computing, Data Mining, IoT",2
+162,"Robotics, Computer Vision, API Development",2
+163,"Cloud Computing, Deep Learning, Data Warehousing",2
+164,"Optimization, Cybersecurity, ETL Pipelines",2
+165,"Database Systems, Data Visualization, Deep Learning",2
+166,"Data Warehousing, Database Systems, Computer Vision",2
+167,"Data Analysis, DevOps, Generative AI",2
+168,"Optimization, MLOps, API Development",2
+169,"Data Warehousing, Statistical Modeling, DevOps",2
+170,"Embedded Systems, Robotics, Optimization",2
+171,"Data Mining, Business Intelligence, Machine Learning",2
+172,"Computer Vision, Cloud Computing, ETL Pipelines",2
+173,"DevOps, Optimization, Cloud Computing",2
+174,"Cybersecurity, ETL Pipelines, Embedded Systems",2
+175,"Time Series Analysis, Optimization, Data Analysis",2
+176,"Data Visualization, Blockchain, MLOps",2
+177,"Statistical Modeling, Database Systems, Business Intelligence",2
+178,"Computer Vision, Data Analysis, Edge Computing",2
+179,"API Development, Software Engineering, Data Analysis",2
+180,"Time Series Analysis, Cybersecurity, Business Intelligence",2
+181,"Embedded Systems, Blockchain, Computer Vision",2
+182,"Optimization, Business Intelligence, Cybersecurity",2
+183,"NLP, Reinforcement Learning, Edge Computing",2
+184,"Database Systems, Cybersecurity, Statistical Modeling",2
+185,"Distributed Systems, DevOps, IoT",2
+186,"Database Systems, Generative AI, Quantum Computing",2
+187,"Network Security, Data Analysis, Software Engineering",2
+188,"Computer Vision, Cybersecurity, Data Warehousing",2
+189,"MLOps, Robotics, Data Analysis",2
+190,"Algorithm Engineering, MLOps, Statistical Modeling",2
+191,"Embedded Systems, Deep Learning, Reinforcement Learning",2
+192,"Data Mining, Systems Design, Algorithm Engineering",2
+193,"Software Engineering, NLP, Generative AI",2
+194,"Optimization, Data Visualization, Blockchain",2
+195,"Time Series Analysis, Cybersecurity, Blockchain",2
+196,"Software Engineering, Database Systems, Predictive Modeling",2
+197,"Cloud Computing, Cybersecurity, DevOps",2
+198,"Predictive Modeling, Network Security, Algorithm Engineering",2
+199,"Artificial Intelligence, Algorithm Engineering, MLOps",2
+200,"Software Engineering, Computer Vision, Business Intelligence",2
