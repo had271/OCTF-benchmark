@@ -44,11 +44,11 @@ Multiple task datasets were created to model different problem complexities.
 
 | Skills per Task | Filename |
 |-----------------|----------|
-| 3 skills | [`tasks_3skills.csv`](https://github.com/had271/OCTF-benchmark/main/Dataset100/tasks_3skills.csv) |
-| 5 skills | `tasks_5skills.csv` |
-| 7 skills | `tasks_7skills.csv` |
-| 10 skills | `tasks_10skills.csv` |
-| 15 skills | `tasks_15skills.csv` |
+| 3 skills | [`tasks_3skills.csv`](https://github.com/had271/OCTF-benchmark/blob/main/Dataset100/tasks_3skills.csv) |
+| 5 skills | [`tasks_5skills.csv`](https://github.com/had271/OCTF-benchmark/blob/main/Dataset100/tasks_5skills.csv)|
+| 7 skills | [`tasks_7skills.csv`](https://github.com/had271/OCTF-benchmark/blob/main/Dataset100/tasks_7skills.csv) |
+| 10 skills | [`tasks_10skills.csv`](https://github.com/had271/OCTF-benchmark/blob/main/Dataset100/tasks_10skills.csv) |
+| 15 skills | [`tasks_15skills.csv`](https://github.com/had271/OCTF-benchmark/blob/main/Dataset100/tasks_15skills.csv) |
 
 ---
 
@@ -56,12 +56,12 @@ Multiple task datasets were created to model different problem complexities.
 
 | Skills per Task | Filename |
 |-----------------|----------|
-| 3 skills | `tasks_3_ext.csv` |
-| 5 skills | `tasks_5_ext.csv` |
-| 7 skills | `tasks_7_ext.csv` |
-| 10 skills | `tasks_10_ext.csv` |
-| 15 skills | `tasks_15_ext.csv` |
-| 20 skills | `tasks_20_ext.csv` |
+| 3 skills | [`tasks_3_ext.csv`](https://github.com/had271/OCTF-benchmark/blob/main/Dataset200/tasks_3_ext.csv) |
+| 5 skills | [`tasks_5_ext.csv`](https://github.com/had271/OCTF-benchmark/blob/main/Dataset200/tasks_5_ext.csv) |
+| 7 skills | [`tasks_7_ext.csv`](https://github.com/had271/OCTF-benchmark/blob/main/Dataset200/tasks_7_ext.csv) |
+| 10 skills | [`tasks_10_ext.csv`](https://github.com/had271/OCTF-benchmark/blob/main/Dataset200/tasks_10_ext.csv) |
+| 15 skills | [`tasks_15_ext.csv`](https://github.com/had271/OCTF-benchmark/blob/main/Dataset200/tasks_15_ext.csv) |
+| 20 skills | [`tasks_20_ext.csv`](https://github.com/had271/OCTF-benchmark/blob/main/Dataset200/tasks_20_ext.csv) |
 
 ---
 
